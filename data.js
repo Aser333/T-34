@@ -34,7 +34,6 @@ const generatePostId = () => {
 };
 
 const generatePost = () => {
-    
     const comments = [];
 
     let i = 0;
